@@ -11,3 +11,9 @@ A Vencord(VC) plugin that displays your live ping
 ## Preview:
 
 <img width="306" height="64" alt="Screenshot 2025-09-15 112631" src="https://github.com/user-attachments/assets/db308aa0-91ec-4174-bdc7-4a91d7621c3f" />
+
+## Implemented code from forks:
+https://github.com/nicola02nb/showPing/
+
+I am not working on this repo actively and would love for people to contribute.
+If you do not wish for me to use your commits in my repo I will obviously remove them upon request.
